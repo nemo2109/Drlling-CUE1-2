@@ -8,5 +8,12 @@
   color: rgb(200, 76, 76);
   font-family: Arial, Helvetica, sans-serif;
 }
+.header__navegation__link {
+  display: flex;
+}
+
+.menu {
+  color: purple;
+}
 
 /*# sourceMappingURL=style.css.map */
