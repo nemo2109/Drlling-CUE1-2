@@ -1,5 +1,5 @@
 .header{
-    background-color: aqua;
+    background-color: rgba(163,219,239,255);
 
     &__navegation{
         display: flex;
@@ -7,9 +7,13 @@
         &__titulo{
             color: rgb(200, 76, 76);
             font-family: Arial, Helvetica, sans-serif;
+            margin-left: 2%;
+            margin-bottom: 1%;
         }
         &__link{
-            display: flex;
+            margin-left: 2%;
+            margin-top: 2%;
+            color: rgb(200, 76, 76);
         }
     }
 }
