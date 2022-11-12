@@ -23,13 +23,15 @@
 
         }
         &__summary{
-            list-style: none;
-            background-color: blue; 
-            padding: 0.5%;
-            
+            list-style:none;
+            background-color: rgba(0,65,115,255); 
+            padding: 3%; 
         }
         &__text{
             color: white;
+            text-align: center;
+            margin-top: 0%;
+            margin-bottom: 0%;
              
         }
         &__section{
@@ -37,7 +39,11 @@
             flex-direction: row;
         }
         &__caja{
-            margin-left: 5%;
+            margin-left: 4%;
+        }
+        &__text1{
+            text-align: center;
+            
         }
         
     }
