@@ -12,10 +12,13 @@
   display: flex;
 }
 
-.menu {
+.menu__navegation__titulo {
   color: purple;
+  margin-left: 5%;
 }
-.menu__navegationtitulo {
+.menu__navegation__titulo2 {
+  margin-top: 0%;
+  margin-left: 5%;
   color: purple;
 }
 .menu__navegation__summary {

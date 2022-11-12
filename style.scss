@@ -15,10 +15,17 @@
 }
 
 .menu{
-    color: purple;
+   
     &__navegation{
 
-        &titulo{
+        &__titulo{
+            color: purple;
+            margin-left: 5%;
+
+        }
+        &__titulo2{
+            margin-top: 0%;
+            margin-left: 5%;
             color: purple;
 
         }
