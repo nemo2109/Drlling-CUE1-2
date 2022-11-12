@@ -37,10 +37,17 @@
   margin-left: 4%;
 }
 .menu__navegation__text1 {
-  text-align: center;
+  text-align: start;
+  color: #7f19ab;
 }
 .menu__navegation__titulo1 {
   text-align: center;
+  color: #551574;
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.menu__navegation__title {
+  color: #db6ed7;
 }
 
 /*# sourceMappingURL=style.css.map */
