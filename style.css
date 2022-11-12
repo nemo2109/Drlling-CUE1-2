@@ -15,5 +15,15 @@
 .menu {
   color: purple;
 }
+.menu__navegationtitulo {
+  color: purple;
+}
+.menu__navegation__summary {
+  list-style: none;
+}
+.menu__navegation__text {
+  color: white;
+  background-color: blue;
+}
 
 /*# sourceMappingURL=style.css.map */

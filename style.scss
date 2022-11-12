@@ -17,6 +17,21 @@
 .menu{
     color: purple;
     &__navegation{
-        
+
+        &titulo{
+            color: purple;
+
+        }
+        &__summary{
+            list-style: none;
+            
+        }
+        &__text{
+            color: white;
+            background-color: blue;
+            
+        }
     }
 }
+   
+       
