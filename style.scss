@@ -1,3 +1,4 @@
+
 .header{
     background-color: rgba(163,219,239,255);
 
@@ -48,18 +49,19 @@
         }
         &__section{
             display: flex;
-            flex-direction: row;
+          
+        }
+        &__section1{
+            display: flex;
+            
         }
         &__caja1{
-            margin-left: 1.5%;
+            margin-left: 0.5%;
         }
         &__caja{
             margin-left: 4%;
         }
-        &__imagen1{
-            width: 100%;
-
-        }
+        
         &__text1{
             text-align: start;
             color: #7f19ab;
