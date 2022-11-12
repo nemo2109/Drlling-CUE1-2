@@ -40,8 +40,14 @@
   display: flex;
   flex-direction: row;
 }
+.menu__navegation__caja1 {
+  margin-left: 1.5%;
+}
 .menu__navegation__caja {
   margin-left: 4%;
+}
+.menu__navegation__imagen1 {
+  width: 100%;
 }
 .menu__navegation__text1 {
   text-align: start;
