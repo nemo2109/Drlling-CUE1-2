@@ -29,5 +29,8 @@
   display: flex;
   flex-direction: row;
 }
+.menu__navegation__caja {
+  margin-left: 5%;
+}
 
 /*# sourceMappingURL=style.css.map */
