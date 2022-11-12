@@ -20,10 +20,10 @@
 }
 .menu__navegation__summary {
   list-style: none;
+  background-color: blue;
 }
 .menu__navegation__text {
   color: white;
-  background-color: blue;
 }
 .menu__navegation__section {
   display: flex;
