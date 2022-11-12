@@ -21,6 +21,7 @@
 .menu__navegation__summary {
   list-style: none;
   background-color: blue;
+  padding: 0.5%;
 }
 .menu__navegation__text {
   color: white;
