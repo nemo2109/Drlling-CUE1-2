@@ -25,5 +25,9 @@
   color: white;
   background-color: blue;
 }
+.menu__navegation__section {
+  display: flex;
+  flex-direction: row;
+}
 
 /*# sourceMappingURL=style.css.map */

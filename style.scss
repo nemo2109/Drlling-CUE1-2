@@ -28,8 +28,11 @@
         }
         &__text{
             color: white;
-            background-color: blue;
-            
+            background-color: blue; 
+        }
+        &__section{
+            display: flex;
+            flex-direction: row;
         }
     }
 }
