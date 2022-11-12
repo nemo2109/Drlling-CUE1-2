@@ -27,12 +27,14 @@
         &__titulo{
             color: purple;
             margin-left: 5%;
+            font-family: Arial, Helvetica, sans-serif;
 
         }
         &__titulo2{
             margin-top: 0%;
             margin-left: 5%;
             color: purple;
+            font-family: Arial, Helvetica, sans-serif;
 
         }
         &__summary{
@@ -75,6 +77,13 @@
         &__title{
             color: #db6ed7;
         }
+        &__titulo3{
+            text-align: center;
+            color: purple;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
        
         
     }

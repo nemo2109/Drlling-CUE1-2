@@ -19,11 +19,13 @@
 .menu__navegation__titulo {
   color: purple;
   margin-left: 5%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .menu__navegation__titulo2 {
   margin-top: 0%;
   margin-left: 5%;
   color: purple;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .menu__navegation__summary {
   list-style: none;
@@ -60,6 +62,11 @@
 }
 .menu__navegation__title {
   color: #db6ed7;
+}
+.menu__navegation__titulo3 {
+  text-align: center;
+  color: purple;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /*# sourceMappingURL=style.css.map */
