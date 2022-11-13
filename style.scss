@@ -99,12 +99,30 @@
             background-color: orangered;
             border: none;
             padding: 10px;
+            margin-bottom: 8%;
+
            
         }
         
 
        
         
+    }
+}
+
+.final{
+    background-color: rgba(163,219,239,255) ;
+    padding: 0.5%;
+    
+    &__navegation{
+
+        &__titulo{
+            color: rgb(200, 76, 76); 
+            text-align: center;
+            font-size: small;
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
     }
 }
    
