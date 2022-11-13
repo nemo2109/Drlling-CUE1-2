@@ -68,5 +68,20 @@
   color: purple;
   font-family: Arial, Helvetica, sans-serif;
 }
+.menu__navegation__boton {
+  width: 99%;
+  height: 25px;
+  border-color: #db6ed7;
+}
+.menu__navegation__boton1 {
+  width: 99%;
+  height: 150px;
+  border-color: #db6ed7;
+}
+.menu__navegation__enviar {
+  background-color: orangered;
+  border: none;
+  padding: 10px;
+}
 
 /*# sourceMappingURL=style.css.map */
