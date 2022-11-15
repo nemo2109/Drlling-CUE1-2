@@ -21,13 +21,12 @@
 }
 
 .menu{
-   
     &__navegation{
-
         &__titulo{
             color: purple;
-            margin-left: 5%;
             font-family: Arial, Helvetica, sans-serif;
+            text-align:start;
+            margin-left: 5%;
 
         }
         &__titulo2{
@@ -37,10 +36,7 @@
             font-family: Arial, Helvetica, sans-serif;
 
         }
- 
-        &__detalles{
-            width: 100%;
-        }
+        
         &__text{
             color: white;
             text-align: center;
@@ -50,43 +46,56 @@
         }
         &__section{
             display: flex;
-            margin-left: 5%;
+            margin-left: 8%;
           
         }
         &__section1{
             display: flex;
-            margin-left: 5%;
             
         }
-        &__summary{
-            list-style:none;
-            background-color: rgba(0,65,115,255); 
-            padding: 3%; 
-         
-         
-        }
+       
         &__caja1{
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
+              display: flex;
+              justify-content: center;
             
             &__forma{
-            width: 40%;
-           padding: 1%;
+               width: 19%;
+               padding: 1%;
+            }
+            &__summary{
+                list-style:none;
+                background-color: rgba(0,65,115,255); 
+                padding: 3%; 
+            }
+            &__detalles{
+                width: 16.3rem;
 
             }
            
-          
         }
         &__caja{
             display: flex;
             flex-direction: row;
-            justify-content: center;
-           
+
+            &__detalles{
+                width: 16.3rem;
+                
+            }
+            &__forma1{
+                width: 28%;
+                padding: 1%;
+            }
+            
+            &__summary{
+                list-style:none;
+                background-color: rgba(0,65,115,255); 
+                padding: 3%;  
+             
+            }
         }
         
         &__text1{
-            text-align: start;
+            text-align: center;
             color: #7f19ab;
        
         }
@@ -125,13 +134,11 @@
 
            
         }
-        
-
-       
-        
     }
-}
 
+      
+}
+       
 .final{
     background-color: rgba(163,219,239,255) ;
     padding: 0.5%;
